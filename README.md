@@ -6,7 +6,8 @@
 biblioteca [libGDX](https://libgdx.badlogicgames.com)
 
 ## Como usar?
-  Baixe um release para desktop
+  Baixe um release para [desktop](https://github.com/gilberto-009199/mondoj/releases/download/v1/Desktop.jar),
+a movimentação e feita pelas setas do teclado e as teclas Q e E para rotação.
 
 ## Authors
 
