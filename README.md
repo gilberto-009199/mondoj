@@ -2,8 +2,8 @@
 ![Tela inicial](./tela.png)
 
 
-<img align="right" src="./assets/gdx.svg" alt="LibGDX" width="64px"/>
-<img align="right" src="./assets/java16x16.svg" alt="Java" width="64px"/>
+<img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/gdx.svg" alt="LibGDX" width="64px"/>
+<img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg" alt="Java" width="64px"/>
   Esse projeto se trata de um jogo para desktop, android e ios, usando a 
 
 biblioteca [libGDX](https://libgdx.badlogicgames.com)
